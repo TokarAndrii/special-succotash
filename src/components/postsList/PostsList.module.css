@@ -1,0 +1,12 @@
+.postItem {
+  list-style-type: none;
+  cursor: pointer;
+  text-decoration: none;
+  width: 80vw;
+  margin-bottom: 20px;
+  padding: 32px;
+}
+
+.postItem:hover {
+  background-color: lightgrey;
+}
